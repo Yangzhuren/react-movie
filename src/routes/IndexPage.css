@@ -1,0 +1,18 @@
+
+.normal {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.carousel{
+  flex:1;
+  height: 720px;
+}
+
+.img{
+  flex:1;
+  height:720px;
+}
